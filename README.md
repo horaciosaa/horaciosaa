@@ -1,5 +1,6 @@
 Hi, I'm Horacio! 👋
 Full Stack Developer 🧑🏻‍💻
+
 💼 dedicado a potenciar startups a través de mi experiencia brindando soluciones innovadoras. Me especializo en aprovechar las tecnologías de vanguardia 🚀, particularmente en el mundo del Desarrollo de softaware y de la mano de la inteligencia artificial, para impulsar a las empresas hacia el éxito. Mi misión es clara: trabajar estrechamente con las startups, utilizando mi conocimientos y recursos para hacer realidad sus visiones. Con un firme compromiso con la excelencia, no solo superar los obstáculos, sino que prosperar con los retos que se nos presentan.
 
 Mi papel en IT Software, también  me permite interactuar con un público diverso, compartir ideas y promoviendo los últimos avances en tecnología.  Reforzando a cada paso, mi dedicación a la innovación y la accesibilidad en el mundo del desarrollo de software.
