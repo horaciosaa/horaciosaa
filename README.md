@@ -17,6 +17,7 @@ Back-end: Node, Express, Nest
 Bases de datos: SQL, NoSQL (MongoDB, MySQL, PostgrSQL)
 Herramientas: Axios, Redux, RTK Query, Tailwind CSS, JWT, Cookies, etc.
 Contacto 📬  email:  hsaavedraubagmail.com
+
 Conecta conmigo en LinkedIn : 
 
 
