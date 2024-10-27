@@ -45,8 +45,6 @@ Stack Tecnológico:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
 <a/>
-
-
 JavaScript/TypeScript, React, Next.js, Angular
 Node.js, Express, Nest.js
 MongoDB, MySQL, PostgreSQL
