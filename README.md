@@ -6,8 +6,27 @@ Especializado en el uso de tecnologías , usando herramientas de vanguardia en e
 Stack Tecnológico:
 <a href="https://github.com/arshadakl?tab=repositories"> 
 
-<div align="left">
-  <p data-importer="text" align="left">Hello World!!</p>
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
 
 ###
 
@@ -18,14 +37,36 @@ Stack Tecnológico:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
 
 ###
 </div>
