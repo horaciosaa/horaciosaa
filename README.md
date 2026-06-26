@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Horacio Saavedra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ6OWFsOXVlOHh2ZGxnamdwNTBoMGk0a2oyaDZvazE1ZXQ3cHJidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 Desarrollando de forma Fullstack ,dedicado a potenciar startups con soluciones innovadoras.
-Especializado en el uso de tecnologías , usando herramientas de vanguardia en el desarrollo de software y apoyado en la inteligencia artificial,creando sistemas escalables y eficientes en los que impulso el éxito empresarial. Con sólida experiencia en desarrollo backend, destacandome en asegurar el rendimiento y la escalabilidad de las aplicaciones, y gracias a mi amplio dominio de tecnologías tanto de front-end como de back-end, ofreciendo soluciones integrales adaptadas a las necesidades de cada proyecto creciendo con cada experiencia.
+Usando herramientas de vanguardia en el desarrollo de software y apoyado en la inteligencia artificial,creando sistemas escalables y eficientes en los que impulso el éxito empresarial. Con sólida experiencia en desarrollo backend, destacandome en asegurar el rendimiento y la escalabilidad de las aplicaciones. Mi dominio de tecnologías tanto de front-end como de back-end, estan al servicio de soluciones integrales adaptadas a las necesidades de cada proyecto creciendo con cada experiencia.
 
 Stack Tecnológico:
 <a href="https://github.com/arshadakl?tab=repositories"> 
